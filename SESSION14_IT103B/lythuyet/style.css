@@ -1,0 +1,11 @@
+#content {
+    color: red;
+    font-weight: 700;
+    border: 1px solid black;
+    line-height: 40px;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
